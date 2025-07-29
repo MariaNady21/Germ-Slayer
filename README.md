@@ -53,7 +53,7 @@ Players battle enemy germs inside a miniature world, using smooth FPS movement, 
 
 ## 🎮 Play It Online
 
-👉 [Play Germ Slayer on itch.io](https://marianady.itch.io/germ-slayer)
+👉 [Play Germ Slayer on itch.io](https://marianady21.itch.io/germ-slayer))
 
 ---
 
@@ -70,7 +70,7 @@ Unity XR & Game Developer focused on immersive design and interactive gameplay s
 
 🔗 [LinkedIn](https://www.linkedin.com/in/maria-nady99)  
 🔗 [GitHub](https://github.com/MariaNady21)
-🔗[itch.io](https://marianady.itch.io)
+🔗[itch.io](https://marianady21.itch.io)
 
 ---
 
